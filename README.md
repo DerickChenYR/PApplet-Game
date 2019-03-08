@@ -20,3 +20,4 @@ Desktop game written in Java with PApplet library. Play with mouse point and cli
 
 ## Other Notes
 Final Project Submission for NYU CS101 - Introduction to Computer Science
+See [demo video](https://github.com/jockonarock/PApplet-Game/blob/master/demo_video.mp4)
