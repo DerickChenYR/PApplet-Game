@@ -3,7 +3,7 @@ Desktop game written in Java with PApplet library. Play with mouse point and cli
 
 ## Getting Started
 1. [Install Processing](https://processing.org/tutorials/eclipse/) in Eclipse.
-2. Download the source code and run via Eclipse.
+2. Download and import the source code and run via Eclipse.
 
 ## Current Features (Dec 2017)
  - Introduction Screen explaining rules.
@@ -20,4 +20,5 @@ Desktop game written in Java with PApplet library. Play with mouse point and cli
 
 ## Other Notes
 Final Project Submission for NYU CS101 - Introduction to Computer Science
-See [demo video](https://github.com/jockonarock/PApplet-Game/blob/master/demo_video.mp4)
+
+View [demo video](https://github.com/jockonarock/PApplet-Game/blob/master/demo_video.mp4)
